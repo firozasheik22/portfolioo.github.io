@@ -1,0 +1,70 @@
+header{
+background-image:url("imgintro.jpeg");
+background-size:cover;
+background-repeat:no-repeat;
+overflow-y: hidden;
+overflow-x: hidden;
+}
+.nav-item{
+    font-size:20px;
+    color:#ffffff;
+}
+a.name{
+    font-family: "Akaya Telivigala", cursive;
+    color:black;
+}
+a:hover { color: #e7630c; }
+div.t{
+    top:50%;
+    text-align:center;
+    font-size:30px;
+}
+h1{
+text-align:center;
+color:rgb(8, 99, 185);
+font-family: 'Cinzel', serif;
+text-decoration: underline;
+text-decoration-color:black;
+
+}
+
+.card img{
+max-height:300px;
+}
+
+.navbar{
+font-style:italic;
+color:black;
+}
+
+.description {
+    left: 50%;
+    position: absolute;
+    top: 15%;
+    transform: translate(-50%, -55%);
+    text-align: center;
+}
+header p {
+top:50%;
+color: black;
+font-size: 1.3rem;
+line-height: 1.5;
+font-family:"Berkshire Swash";
+}
+
+footer h3{
+font-family:'Acme', sans-serif;;
+text-align:center;
+}
+
+#projects{
+    background-image:url("projects.png");
+    background-size:cover;
+    background-repeat:no-repeat;
+    overflow-y: hidden;
+    overflow-x: hidden;
+    }
+
+    div.stock{
+        text-align:left !important;
+    }
